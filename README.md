@@ -1,5 +1,5 @@
 # Deep Adaptive Fusion Network with Multimodal Neuroimaging Information for MDD Diagnosis: An Open Data Study
-This repository contains the code and data for the paper "Deep Adaptive Fusion Network with Multimodal Neuroimaging Information for MDD Diagnosis: An Open Data Study". The code will be made public once the article is accepted！
+This repository contains the code and data for the paper "Deep Adaptive Fusion Network with Multimodal Neuroimaging Information for MDD Diagnosis: An Open Data Study". **The code will be made public once the article is accepted！**
 
 ![maige](https://github.com/TTLi1996/DAFN/blob/main/Overview%20of%20the%20DAFN.jpg)
 
@@ -8,6 +8,7 @@ Multimodal neuroimaging provides powerful evidence for automated diagnosis of ma
 
 # Dataset
 REST-meta-MDD consortium: https://rfmri.org/REST-meta-MDD.
+
 The recruited dataset: https://drive.google.com/drive/folders/1bVTjJMWI6IRAYurPGiaUDTntwMfJN8Mm?usp=sharing.
 
 # Requirements
