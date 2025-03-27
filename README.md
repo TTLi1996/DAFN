@@ -8,7 +8,7 @@ Multimodal neuroimaging provides powerful evidence for automated diagnosis of ma
 
 # Dataset
 REST-meta-MDD consortium: https://rfmri.org/REST-meta-MDD.
-The recruited dataset: https://drive.google.com/drive/folders/1bVTjJMWI6IRAYu rPGiaUDTntwMfJN8Mm?usp=sharing.
+The recruited dataset: https://drive.google.com/drive/folders/1bVTjJMWI6IRAYurPGiaUDTntwMfJN8Mm?usp=sharing.
 
 # Requirements
 The experiments related to this study were compiled using PyTorch-1.13 and executed on an NVIDIA A100 GPU, running on Ubuntu 20.04.
